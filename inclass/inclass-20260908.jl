@@ -1,5 +1,7 @@
 # Start by making sure that you have opened the folder that your code lives in.
 
+# Make a new file and make sure that the extension is `.jl` (for example, `inclass-20260908.jl`).
+
 # Next we need to activate the project environment for this directory.
 # Goto the REPL 
 #> To get to the REPL if you are using VS Code and have added the Julia Language Support extension...

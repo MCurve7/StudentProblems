@@ -8,7 +8,7 @@
 #> Type ALT-j ALT-o (or you can just execute a line of code but the key-chord is better) and that will start the REPL
 # In the REPL, type `]` and you'll see `(@1.12) pkg>` (or whatever your current Julia version is).
 # Enter the project environment for this directory by typing `activate .` (the dot is important) and hitting ENTER.
-# Since my folder is called `Julia` I will see `(@Julia) pkg>`,
+# Since my folder is called `Julia` I will see `(Julia) pkg>`,
 # you will see `(your_directory_name) pkg>`.
 
 # Since LinearAlgebra is a standard library, you do not need to add it to your project. 

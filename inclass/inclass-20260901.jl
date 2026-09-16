@@ -1,6 +1,6 @@
 # Enter package manager with `]`
 # `activate .`
-# Leave package manager with `backspace`
+# Leave package manager with `BACKSPACE`
 
 2+3
 
